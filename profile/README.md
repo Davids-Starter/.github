@@ -1,0 +1,2 @@
+# David's Starter Packs
+This organization contains various READMEs and projects to help you get started on your coding journey! They may not always get updated in a timely manner, so feel free to open up a PR with your own changes! :)
